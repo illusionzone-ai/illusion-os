@@ -6,9 +6,11 @@ Building an AI system from zero.
 
 ## What is this?
 
-ILLUSION is not a tool, not a blog, not a collection of prompts.
+Not a tool.  
+Not a blog.  
+Not prompts.
 
-It is:
+ILLUSION is:
 - an AI operating system
 - a structured thinking framework
 - a content + automation pipeline
@@ -19,19 +21,32 @@ It is:
 ## Purpose
 
 Transform from:
-> AI user
+
+> AI user  
 
 into:
+
 > AI system architect
 
 ---
 
 ## Core Principles
 
-- Consistency > perfection
-- One task at a time
-- Build > plan
-- Document everything
+- Consistency > perfection  
+- One task at a time  
+- Build > plan  
+- Document everything  
+
+---
+
+## System Structure (WIP)
+
+/00_CORE  
+/01_SYSTEM  
+/02_AI  
+/03_CONTENT  
+/04_LOGS  
+/05_ARCHIVE  
 
 ---
 
